@@ -2,9 +2,8 @@
 
 ### 1) Madlib Game : To Play the Game Checkout (madlib.ipynb) file
 
-![picture alt](Images/printable-halloween-game-kids_horizontal.jpg "printable-halloween-game-kids_horizontal")
+[![Madlib Game](Images/printable-halloween-game-kids_horizontal.jpg)](https://github.com/praddy18597/Interactive-Games-Software-Development-Project/blob/main/Madlib%20Game.ipynb)
 
-[Madlib Game](Madlib%20Game.ipynb "Madlib Game")
 
 
 ### 2) Guess The Number : To Play the Game checkout (Guess The Number.ipynb) file
