@@ -4,6 +4,9 @@
 
 ![picture alt](Images/printable-halloween-game-kids_horizontal.jpg "printable-halloween-game-kids_horizontal")
 
+[Madlib Game](Madlib%20Game.ipynb "Madlib Game")
+
+
 ### 2) Guess The Number : To Play the Game checkout (Guess The Number.ipynb) file
 
 ![picture alt](Images/guess-my-number.gif "guess-my-number")
