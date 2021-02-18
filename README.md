@@ -11,4 +11,8 @@
 ### 3) Rock Papers Scissors : To Play the Game Click on the Image Below 👇
 
 [![Rock Papers Scissors](Images/Rock%20Paper%20Scissors.png)](https://github.com/praddy18597/Interactive-Games-Software-Development-Project/blob/main/Rock_Paper_Scissors.ipynb)
+
+### 4) Hangman : To Play the Game Click on the Imaage Below 👇
+
+[![Hangman](Images/Hangman.jpg)](https://github.com/praddy18597/Interactive-Games-Software-Development-Project/blob/main/Hangman.ipynb)
  
