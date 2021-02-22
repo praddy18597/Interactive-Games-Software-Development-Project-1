@@ -1,4 +1,4 @@
-# Interactive-Games-Python-Project
+# Interactive-Games-Python-Project-1
 
 ### 1) Madlib Game : To Play the Game Click on the Image Below 👇
 
