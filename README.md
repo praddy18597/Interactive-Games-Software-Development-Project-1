@@ -1,5 +1,7 @@
 # Interactive-Games-Python-Project-1
 
+#### Tip: To Play around with the Games download the notebook file and run in your editor or jupyter notebook 😊
+
 ### 1) Madlib Game : To Play the Game Click on the Image Below 👇
 
 [![Madlib Game](Images/printable-halloween-game-kids_horizontal.jpg)](https://github.com/praddy18597/Interactive-Games-Software-Development-Project/blob/main/Madlib%20Game.ipynb)
